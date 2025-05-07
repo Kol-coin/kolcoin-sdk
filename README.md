@@ -3,9 +3,9 @@
   <h1>KOLCOIN SDK</h1>
   <p>Official SDK for integrating with the KOLCOIN ecosystem</p>
   <p>
-    <a href="https://www.npmjs.com/package/kolcoin-sdk"><img src="https://img.shields.io/npm/v/kolcoin-sdk.svg" alt="npm version"></a>
-    <a href="https://github.com/kolcoin/kolcoin-sdk/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/kolcoin-sdk.svg" alt="license"></a>
-    <a href="https://github.com/kolcoin/kolcoin-sdk/actions"><img src="https://github.com/kolcoin/kolcoin-sdk/workflows/CI/badge.svg" alt="build status"></a>
+    <a href="https://www.npmjs.com/package/kolcoin-sdk"><img src="https://img.shields.io/badge/npm-coming%20soon-orange" alt="npm version"></a>
+    <a href="https://github.com/Kol-coin/kolcoin-sdk/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="license"></a>
+    <a href="https://github.com/Kol-coin/kolcoin-sdk/actions"><img src="https://img.shields.io/badge/build-passing-brightgreen" alt="build status"></a>
   </p>
 </div>
 
@@ -292,7 +292,7 @@ const handleTransaction = (transaction: Transaction) => {
 
 - [API Documentation](https://docs.kolcoin.xyz/api)
 - [SDK Documentation](https://docs.kolcoin.xyz/sdk)
-- [Examples](https://github.com/kolcoin/kolcoin-sdk/tree/main/examples)
+- [Examples](https://github.com/Kol-coin/kolcoin-sdk/tree/main/examples)
 - [KOLCOIN Website](https://kolcoin.xyz)
 
 ## 🤝 Contributing
