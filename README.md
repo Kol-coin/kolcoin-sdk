@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/200x200.png?text=KOLCOIN+SDK" alt="KOLCOIN SDK Logo" width="200" height="200">
+  <img src="assets/images/kolcoin-logo.png" alt="KOLCOIN SDK Logo" width="200">
   <h1>KOLCOIN SDK</h1>
   <p>Official SDK for integrating with the KOLCOIN ecosystem</p>
   <p>
